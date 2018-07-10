@@ -1,3 +1,3 @@
 Simple web app to create, store and delete tasks.
 
-to be continued.
+Tools used: Java servlets, JPA, JSTL, Hibernate, MariaDB, Bootstrap.
