@@ -1,0 +1,6 @@
+util\PersistenceUtil.class
+pl\sda\poznan\repository\TodoRepository.class
+pl\sda\poznan\HomeServlet.class
+pl\sda\poznan\service\TodoService.class
+pl\sda\poznan\servlets\TodoServlet.class
+pl\sda\poznan\model\TodoItem.class
